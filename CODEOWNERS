@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @servesh04
+/src/backend/database.py      @servesh04
+/src/backend/routers/auth.py  @servesh04
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @servesh04
